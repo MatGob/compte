@@ -2,6 +2,7 @@
 
 int compte::getNumero() {
     return numero;
+    //modif num
 }
 
 float compte::getSolde() {
